@@ -8,3 +8,6 @@
 
 # For example, str = "pynative" so you should display ‘p’, ‘n’, ‘t’, ‘v’.
 
+#input a word and assign as variable
+
+#loop for even characters
