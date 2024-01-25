@@ -10,6 +10,10 @@
 
 #input a word and assign as variable
 any_word = input("Please input a word: ")
-print("Original String is", any_word)
+print("Original String is:", any_word)
 
 #loop for even characters
+print("\nPrinting only even index chars:")
+for i in range(len(any_word)):
+    if i % 2 == 0:
+        print(any_word[i])
