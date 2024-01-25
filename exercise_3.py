@@ -9,5 +9,7 @@
 # For example, str = "pynative" so you should display ‘p’, ‘n’, ‘t’, ‘v’.
 
 #input a word and assign as variable
+any_word = input("Please input a word: ")
+print("Original String is", any_word)
 
 #loop for even characters
